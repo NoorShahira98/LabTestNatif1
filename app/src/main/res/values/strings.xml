@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabTest1</string>
+    <string name="btnAddress">Address</string>
+    <string name="btnNum">No Phone</string>
+</resources>
